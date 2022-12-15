@@ -1,0 +1,23 @@
+{
+  "name": "calculadora-solar",
+  "version": "0.0.1",
+  "description": "Calculadora de presupuesto para placas fotovoltaicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bernhelm/calculadora-solar.git"
+  },
+  "keywords": [
+    "presupuesto",
+    "solar"
+  ],
+  "author": "Alberto García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bernhelm/calculadora-solar/issues"
+  },
+  "homepage": "https://github.com/Bernhelm/calculadora-solar#readme"
+}
